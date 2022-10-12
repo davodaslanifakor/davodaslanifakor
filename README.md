@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davodaslanifakor
+- 👋 Hi, I’m Davoud Aslani Fakour
 - 👀 I’m interested in FrontEnd/Vue/React
 - 🌱 I’m currently React
 - 💞️ I’m looking to collaborate on ...
