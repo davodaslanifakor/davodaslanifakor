@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Davoud Aslani Fakour
+- 👋 Hi, I’m Davoud Aslani
 - 👀 I’m interested in FrontEnd/Vue/React
-- 🌱 I’m currently React
+- 🌱 I’m currently Vue
 - 💞️ I’m looking to collaborate on ...
 
 <!---
