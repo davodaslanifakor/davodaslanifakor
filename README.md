@@ -27,6 +27,6 @@ Open to a **Senior Frontend**.
 
 📬 davodaslanifakor@gmail.com
 🔗 [linkedin.com/in/davoud-fakour](https://linkedin.com/in/davoud-fakour)
-🌐 [Studio — portfolio](https://davodaslanifakor.github.io/studio/)
+🌐 [Behind the Build — portfolio](https://davodaslanifakor.github.io/)
 
 ✍️ [Medium](https://medium.com/@DavoudAslaniFakour)
