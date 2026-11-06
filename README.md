@@ -10,9 +10,6 @@ Previously: team lead recovering a stalled crypto platform at Sarmayex,
 5 years growing from senior dev to lead at Ostadbank, and a full-stack
 expansion into Next.js and PostgreSQL at a UK remote company.
 
-Along the way I built [**modaltor**](https://github.com/davodaslanifakor/modaltor)
-— a Vue modal component used by 80+ projects.
-
 ---
 
 **Stack**
